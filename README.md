@@ -1,4 +1,4 @@
-# The Big Book of Latin
+# Latin Nirvana 
 
 <a href="https://assembly.com/the-big-book-of-latin/bounties?utm_campaign=assemblage&utm_source=the-big-book-of-latin&utm_medium=repo_badge"><img src="https://asm-badger.herokuapp.com/the-big-book-of-latin/badges/tasks.svg" height="24px" alt="Open Tasks" /></a>
 
